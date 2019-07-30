@@ -12,44 +12,47 @@ class App extends React.Component {
   }
 
   random = () => {
-    // console.log("choosing random pictures");
-    // const arrOfIds = [];
-    // let randId = Math.floor(Math.random() * 40) + 1;
-    // while(arrOfIds.includes(randId)) {
-    //     console.log(`${randId} already exists in the array`)
-    //     randId = Math.floor(Math.random() * 40) + 1;
-    // }
     var array = this.state.pictures
     var currentIndex = array.length;
     var temporaryValue, randomIndex;
 
-    // While there remain elements to shuffle...
     while (0 !== currentIndex) {
-        // Pick a remaining element...
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex -= 1;
 
-        // And swap it with the current element.
         temporaryValue = array[currentIndex];
         array[currentIndex] = array[randomIndex];
         array[randomIndex] = temporaryValue;
     }
-    array = array.slice(-12)
-    console.log(array)
-    return array;
+    this.select(array);
+  }
+
+  select = (array) => {
+    var newArray = array.slice(-12)
+    console.log(newArray)
+    return newArray;
+
   }
 
     handleStatus = (id, name) => {
         const pictures = this.state.pictures;
         if (pictures[id - 1].isClicked) {
-            this.setState({pictures})
-            console.log(`You already clicked on ${name}. Your score remains at ${this.state.score}`)
+            //this.setState({pictures})
+            console.log(`You already clicked on ${name}. You lose!`)
+            var r = window.confirm(`You already clicked on ${name}! Your final score was ${this.state.score}. Click to play again.`) 
+            if (r === true) {
+                window.location.reload()
+            }
+            else {
+                alert("Thank you for playing!")
+            }
+
         }
         else {
             this.random();
             this.setState({ score: this.state.score + 1 });
             pictures[id - 1].isClicked = true;
-            console.log(`You clicked on ${name}'s card and your new score is ${this.state.score}`)
+            console.log(`You clicked on ${name}.`)
         }
     }
 
@@ -70,7 +73,6 @@ class App extends React.Component {
                name={picture.name}
                image={picture.image}
                handleStatus={this.handleStatus}
-               handleIncrement={this.handleIncrement}
             />
           )
         }
