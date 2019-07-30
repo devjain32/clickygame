@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Spongebob",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Mr. Krabs",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "Squidward",
+        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "Patrick",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Sandy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/220px-Sandy_Cheeks.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Plankton",
+        "image": "https://www.pngkey.com/png/full/36-369294_image-spongebob-plankton-plankton-png.png",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Mrs. Puff",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Mrs._Puff.svg/220px-Mrs._Puff.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Karen",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/a/a6/Karen_mobile_stock_art.png/revision/latest?cb=20181202012333",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Gary",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/9/9e/Gary_looking_up_stock_art.png/revision/latest?cb=20181227162221",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "Pearl",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Pearl_Krabs.svg/220px-Pearl_Krabs.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "King Neptune",
+        "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/7/7d/Neptune_with_trident_render.png/revision/latest?cb=20190122021858",
+        "isClicked": false
+    },
+    {
+        "id": 12,
+        "name": "Squilliam",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/a/ae/Squilliam_s6-p.png/revision/latest?cb=20190519114115",
+        "isClicked": false
+    },
+    {
+        "id": 13,
+        "name": "Larry the Lobster",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56438507-26ec-4670-a557-b4b4fdc00ea3/dcnsiue-b0061ad2-2a7d-4a54-a775-01374558a5fc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NDM4NTA3LTI2ZWMtNDY3MC1hNTU3LWI0YjRmZGMwMGVhM1wvZGNuc2l1ZS1iMDA2MWFkMi0yYTdkLTRhNTQtYTc3NS0wMTM3NDU1OGE1ZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QClKuJl5ZvjbBK2f18Qf1FKM_dgljcH_NahZ4bNnyxc",
+        "isClicked": false
+    },
+    {
+        "id": 14,
+        "name": "Flying Dutchman",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/e/e5/SB_550x510_FDutch.png/revision/latest?cb=20180803032612",
+        "isClicked": false
+    },
+    {
+        "id": 15,
+        "name": "Mermaid Man",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/b/b7/Mermaid_Man.svg/revision/latest/scale-to-width-down/177?cb=20101117023210",
+        "isClicked": false
+    },
+    {
+        "id": 16,
+        "name": "Barnacle Boy",
+        "image": "https://ui-ex.com/images/patrick-transparent-barnacle-boy-6.png",
+        "isClicked": false
+    },
+    {
+        "id": 17,
+        "name": "Jellyfish",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/1/10/Jellyfish_stock_art.png/revision/latest?cb=20181229182342",
+        "isClicked": false
+    },
+    {
+        "id": 18,
+        "name": "Kevin",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/0/0b/Kevin_the_Sea_Cucumber_.png/revision/latest?cb=20180927205334",
+        "isClicked": false
+    },
+    {
+        "id": 19,
+        "name": "Spongegar",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/8/81/Primitive_Sponge_stock_art.png/revision/latest?cb=20181228052636",
+        "isClicked": false
+    },
+    {
+        "id": 20,
+        "name": "Old Man Jenkins",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abff4cf-0734-4aa4-b297-327744cea7cc/dc2qrgs-43843d07-dfe6-4100-ad5f-679e07d44ccb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhYmZmNGNmLTA3MzQtNGFhNC1iMjk3LTMyNzc0NGNlYTdjY1wvZGMycXJncy00Mzg0M2QwNy1kZmU2LTQxMDAtYWQ1Zi02NzllMDdkNDRjY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.A5uY-TGGqhyic9y7qLK6sOSmfg-0KChv1An58hVYFxg",
+        "isClicked": false
+    },
+    {
+        "id": 21,
+        "name": "Purple Guy",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/c/ca/37BMartin.png/revision/latest?cb=20180309004728",
+        "isClicked": false
+    },
+    {
+        "id": 22,
+        "name": "Doctor",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abff4cf-0734-4aa4-b297-327744cea7cc/dc2qten-697fedd6-95d0-4af0-96a1-a293eb684650.png/v1/fill/w_147,h_250,strp/purple_doctorfish__spongebob_squarepants__by_johnbukenas_dc2qten-250t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk1IiwicGF0aCI6IlwvZlwvM2FiZmY0Y2YtMDczNC00YWE0LWIyOTctMzI3NzQ0Y2VhN2NjXC9kYzJxdGVuLTY5N2ZlZGQ2LTk1ZDAtNGFmMC05NmExLWEyOTNlYjY4NDY1MC5wbmciLCJ3aWR0aCI6Ijw9MjMyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CDnC0mxqdq4ePkHGeP4MtPcmMiL6RMFeAwMPy3HyRMY",
+        "isClicked": false
+    },
+    {
+        "id": 23,
+        "name": "Mrs. Puff",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Mrs._Puff.svg/220px-Mrs._Puff.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 24,
+        "name": "Karen",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/a/a6/Karen_mobile_stock_art.png/revision/latest?cb=20181202012333",
+        "isClicked": false
+    },
+    {
+        "id": 25,
+        "name": "Lady",
+        "image": "https://vignette.wikia.nocookie.net/theadventuresofgarythesnail/images/2/26/Judy.png/revision/latest?cb=20160523033036",
+        "isClicked": false
+    },
+    {
+        "id": 26,
+        "name": "Old Guy",
+        "image": "https://i.ya-webdesign.com/images/spongebob-clip-man-14.png",
+        "isClicked": false
+    },
+    {
+        "id": 27,
+        "name": "Mail man",
+        "image": "https://vignette.wikia.nocookie.net/theadventuresofgarythesnail/images/f/f1/Norton.png/revision/latest?cb=20160509004120",
+        "isClicked": false
+    },
+    {
+        "id": 28,
+        "name": "Patrick",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 29,
+        "name": "Sandy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/220px-Sandy_Cheeks.svg.png",
+        "isClicked": false
+    },
+    {
+        "id": 30,
+        "name": "Fred",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abff4cf-0734-4aa4-b297-327744cea7cc/dc2oqet-117aa76d-1cc6-4b4c-9f32-81b74c970b02.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhYmZmNGNmLTA3MzQtNGFhNC1iMjk3LTMyNzc0NGNlYTdjY1wvZGMyb3FldC0xMTdhYTc2ZC0xY2M2LTRiNGMtOWYzMi04MWI3NGM5NzBiMDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9oAPAHYyojHthPCClgPDMyJ0KtU717QWvknBsg7sD4E",
+        "isClicked": false
+    },
+    {
+        "id": 31,
+        "name": "Shady Shoals",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/8/84/Shady_Shoals_Caretaker.png/revision/latest?cb=20150709231123",
+        "isClicked": false
+    },
+    {
+        "id": 32,
+        "name": "Wheelchair",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abff4cf-0734-4aa4-b297-327744cea7cc/dc2qqxu-4d9e78df-e3ec-4e4b-9f90-fbe09e2c8618.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhYmZmNGNmLTA3MzQtNGFhNC1iMjk3LTMyNzc0NGNlYTdjY1wvZGMycXF4dS00ZDllNzhkZi1lM2VjLTRlNGItOWY5MC1mYmUwOWUyYzg2MTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ox_fn_HpamydeWMvT0higBVJWYuLFrtrAcDfmfWThWE",
+        "isClicked": false
+    },
+    {
+        "id": 33,
+        "name": "Nancy",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abff4cf-0734-4aa4-b297-327744cea7cc/dc2q8vc-d8cabd58-f009-4600-91d2-02c5f5a087c6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhYmZmNGNmLTA3MzQtNGFhNC1iMjk3LTMyNzc0NGNlYTdjY1wvZGMycTh2Yy1kOGNhYmQ1OC1mMDA5LTQ2MDAtOTFkMi0wMmM1ZjVhMDg3YzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5EFthyC93n48vo_6CiZgRezlYhGqYhq6Ijd0Hgr3QB8",
+        "isClicked": false
+    },
+    {
+        "id": 34,
+        "name": "Mable",
+        "image": "https://vignette.wikia.nocookie.net/spongepedia/images/f/f7/82Mable.png/revision/latest?cb=20190505033054",
+        "isClicked": false
+    },
+    {
+        "id": 35,
+        "name": "Another old lady",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abff4cf-0734-4aa4-b297-327744cea7cc/dc2qqdo-bc25f7b8-0c0a-4e4d-98e9-0a5b8e3a1a59.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhYmZmNGNmLTA3MzQtNGFhNC1iMjk3LTMyNzc0NGNlYTdjY1wvZGMycXFkby1iYzI1ZjdiOC0wYzBhLTRlNGQtOThlOS0wYTViOGUzYTFhNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vYUB1JDJuFQGEn7BBxvd7-s5mPX8iV7--fQQmUAHHTs",
+        "isClicked": false
+    },
+    {
+        "id": 36,
+        "name": "Camp counselor",
+        "image": "https://vignette.wikia.nocookie.net/theadventuresofgarythesnail/images/d/da/Camp_Counselor_Kraus.png/revision/latest?cb=20160724135742",
+        "isClicked": false
+    },
+    {
+        "id": 37,
+        "name": "Spongebob mom",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/c/c9/MargaretTransparent.png/revision/latest?cb=20180803020013",
+        "isClicked": false
+    },
+    {
+        "id": 38,
+        "name": "Spongebob dad",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d3/A6096303-1CBC-4FEA-BECA-9146A9E650B5.png/revision/latest?cb=20180803015955",
+        "isClicked": false
+    },
+    {
+        "id": 39,
+        "name": "Captain Blue Squarepants",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/f/f4/Captain_Blue_SquarePants.png/revision/latest?cb=20180331061719",
+        "isClicked": false
+    },
+    {
+        "id": 40,
+        "name": "Spongebob grandma",
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/0/0e/Grandma_Squarepants.png/revision/latest?cb=20181129014945",
+        "isClicked": false
+    }
+]

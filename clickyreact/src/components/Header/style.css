@@ -1,0 +1,82 @@
+.parallax { 
+    /* The image used */
+    background-image: url("https://vignette.wikia.nocookie.net/spongebob/images/2/26/Bubbletown_002.png/revision/latest?cb=20181028171458");
+    
+    /* Set a specific height */
+    height: 100vh; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.intro {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding:10px;
+    background-color: rgba(0,0,0, 0.4);
+    border-radius: 10px;
+
+}
+.rainbow {
+    font-size: 50px;
+    font-family: 'Slackey', cursive;
+    -webkit-animation: rainbow 10s infinite; 
+    -ms-animation: rainbow 10s infinite;
+    animation: rainbow 10s infinite; 
+
+}
+@-webkit-keyframes rainbow{
+    0%{color: orange;}	
+    10%{color: purple;}	
+      20%{color: red;}
+    30%{color: CadetBlue;}
+      40%{color: yellow;}
+    50%{color: coral;}
+      60%{color: green;}
+    70%{color: cyan;}
+    80%{color: DeepPink;}
+    90%{color: DodgerBlue;}
+      100%{color: orange;}
+  }
+  
+  /* Internet Explorer */
+  @-ms-keyframes rainbow{
+     0%{color: orange;}	
+    10%{color: purple;}	
+      20%{color: red;}
+    30%{color: CadetBlue;}
+      40%{color: yellow;}
+    50%{color: coral;}
+      60%{color: green;}
+    70%{color: cyan;}
+    80%{color: DeepPink;}
+    90%{color: DodgerBlue;}
+      100%{color: orange;}
+  }
+  
+  /* Standar Syntax */
+  @keyframes rainbow{
+      0%{color: orange;}	
+    10%{color: purple;}	
+      20%{color: red;}
+    30%{color: CadetBlue;}
+      40%{color: yellow;}
+    50%{color: coral;}
+      60%{color: green;}
+    70%{color: cyan;}
+    80%{color: DeepPink;}
+    90%{color: DodgerBlue;}
+      100%{color: orange;}
+  }
+ .description {
+     text-align: center;
+     font-size: 20px;
+     color: white;
+ }
